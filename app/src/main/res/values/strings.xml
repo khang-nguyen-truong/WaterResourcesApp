@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WaterResourcesApp</string>
+
+    <string name="name_box">water resource name</string>
+    <string name="location_box">location</string>
+    <string name="type_box">type</string>
+    <string name="add_button">Add</string>
+
+    <string name="box_blank">Please provide all details</string>
+    <string name="resource_already_exists">Water resources already exists</string>
+    <string name="resource_added_success">Water resources added successfully</string>
+
+    <string name="water_resource_title">Water Resource Name</string>
+    <string name="location_title">Location</string>
+    <string name="type_title">Type</string>
+
+</resources>
